@@ -150,3 +150,7 @@ h1, .h1, h2, .h2, h3, .h3 {
     padding: 20px;
 }
 /* End Forgot password form */
+
+.mt-5{
+  margin-top: 20px;
+}

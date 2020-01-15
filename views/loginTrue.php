@@ -8,7 +8,8 @@
           
 
             <!-- Profile link -->
-           <center> <a href="profile.php">Account settings</a><br></center>
+        <center><a href="bespan.php">Racket toevoegen</a><br></center>
+        <center><a href="profile.php">Account settings</a><br></center>
 
 
          

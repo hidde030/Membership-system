@@ -182,7 +182,7 @@ class UserClass{
         if ($result->num_rows != 0) {
             include("views/passwordResetForm.php");
         } else {
-            $_SESSION['message'] = 'Please contact support at support@membership.com';
+            $_SESSION['message'] = 'Please contact support at hidde.glansdorp@live.nlq';
         }
         
     } /* End newPassword() */
@@ -346,5 +346,5 @@ class UserClass{
         }
     }   /* End Verify() */
     
-    
+ 
 }   /* End class UserClass */
