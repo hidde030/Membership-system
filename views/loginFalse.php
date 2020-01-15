@@ -16,7 +16,7 @@ include_once 'header.php';
                 <a href="https://github.com/MartinoEst/Membership-system">Check out this code at GitHub</a><br>
 
                 <!-- Back to main page -->  
-                <a href="http://martincodes.com/">Back to main page</a>
+                <a href="./bespanservice/index.php">Back to main page</a>
 
                 </center></p>
             </div>

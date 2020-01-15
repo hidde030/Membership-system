@@ -51,9 +51,11 @@
                 <?php if(!empty(@$_SESSION['user_id'])): ?>
                     <li><a href="profile.php"><span class="glyphicon glyphicon-user"></span> Account</a></li>
                     <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Sign out</a></li>
+                    <li><a href="bespan.php"><span class="glyphicon glyphicon-plus"></span> add racket</a></li>
                 <?php else: ?>
                     <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
                     <li><a href="registration.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a href="bespan.php"><span class="glyphicon glyphicon-plus"></span> add racket</a></li>
                 <?php endif; ?>
                 </ul>
             </div> <!-- /Navigation buttons -->

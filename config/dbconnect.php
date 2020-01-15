@@ -1,10 +1,10 @@
 <?php 
 
 /* Credentials */
-$servername = "Insert your servername";
-$username = "Insert your database user";
-$password = "Insert your database password";
-$database = "Insert your database name";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$database = "membership";
 
 
 /* Connection */

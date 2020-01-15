@@ -15,7 +15,7 @@
     <p class="text-center">To login click on <a href="login.php" class="btn btn-primary btn-sm">Login</a></p>
     <?php elseif($verify->Verify() == FALSE): ?>
     <h3 class="text-center">There has been an error while activating your account.</h3>
-    <p class="text-center">Please contact support at <a href="mailto:support@membership.com?Subject=Konto%aktiveerimise%viga" class="link-blue">support@membership.com</a>.</p>
+    <p class="text-center">Please contact support at <a href="mailto:hidde.glansdorp@live.nl?Subject=Konto%aktiveerimise%viga" class="link-blue">support@membership.com</a>.</p>
     
     <?php endif; ?>  
 </div>
